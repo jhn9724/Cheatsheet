@@ -1,0 +1,20 @@
+header{
+    color: #a52a2a;
+    font-size: 25px;
+    text-align: center;
+}
+h3{
+    color: purple;
+    text-align:center;
+}
+table{
+    border: 1px solid black;
+    margin: auto;
+    
+}
+td{
+    border: 1px solid black;
+}
+th{
+    background-color: pink;
+}
