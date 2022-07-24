@@ -1,1 +1,4 @@
 # Cheatsheet
+
+permalink: /index.html
+
